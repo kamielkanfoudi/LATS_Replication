@@ -14,7 +14,7 @@ import statistics
 import matplotlib.pyplot as plt
 import pickle
 
-# Uncomment lines below the first time running this code to download the necessary NLTK datasets
+# Uncomment lines below the first time running this code to download the necessary NLTK datasets!!!
 # nltk.download('wordnet')
 # nltk.download('stopwords')
 
